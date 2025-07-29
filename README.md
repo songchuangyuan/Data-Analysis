@@ -28,7 +28,7 @@
 1. 克隆本仓库：
 
 ```bash
-git clone https://github.com/你的用户github名称/Data-Analysis.git
+git clone https://github.com/你的github用户名称/Data-Analysis.git
 cd Data-Analysis
 ```
 
@@ -39,7 +39,7 @@ cd Data-Analysis
 
 ## ❤️ 欢迎交流与反馈
 
-* 📮 **知乎**：[@塞大花](https://www.zhihu.com/people/你的知乎用户名)
+* 📮 **知乎**：[@塞大花](https://www.zhihu.com/people/song-yuan-95-19)
 * 🐙 **GitHub**：[@songchuanyuan](https://github.com/songchuangyuan)
 
 如果你觉得这些内容对你有帮助，欢迎 Star、Fork 或留言交流。也欢迎提出改进建议！
